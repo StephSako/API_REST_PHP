@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteRule ^inscription/?$ inscription.php [NC,L]
+RewriteRule ^event/listEventsMap/?$ event/listEventsMap.php [NC,L]
+RewriteRule ^event/listEventsMapDetails/?$ event/listEventsMapDetails.php [NC,L]
+RewriteRule ^event/listEventsSort/?$ event/listEventsSort.php [NC,L]
+RewriteRule ^user/login/?$ user/login.php [NC,L]
+RewriteRule ^config/?$ - [F,L]
+RewriteRule ^objects/?$ - [F,L]

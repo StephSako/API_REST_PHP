@@ -1,0 +1,26 @@
+{
+  "login": {
+    "desc": "Login",
+    "url" : "/api/login"
+  },
+  
+  "inscription": {
+    "desc": "Inscription",
+    "url" : "/api/inscription"
+  },
+  
+  "listEventsSort": {
+    "desc": "Détails de tous les événements",
+    "url" : "/api/listEventsSort"
+  },
+  
+   "listEventsMap": {
+    "desc": "Description courte de tous les événements",
+    "url" : "/api/listEventsMap"
+  },
+  
+   "listEventsMapDetails": {
+    "desc": "Détails d'un événement",
+    "url" : "/api/listEventsMapDetails"
+  }
+}

@@ -1,0 +1,30 @@
+body {
+	background: #ff944d;
+}
+
+.text {
+	text-align: center; 
+	font-size: 2em; 
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	color: white;
+}
+
+.stext {
+	text-align: center; 
+	font-size: 1em; 
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	color: white;
+}
+
+.img {
+	width: 25%;
+	height: auto;
+	mix-blend-mode: lighten;
+	opacity: 0.8;
+}
+
+#particles-js canvas {
+	display: block;
+	position: fixed;
+	z-index: -1;
+}
